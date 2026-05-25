@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Если вы используете материалы этого репозитория, цитируйте Landau Fund и исходный GitHub-репозиторий."
+title: "Landau Fund: ANTIGRAVITY"
+type: dataset
+authors:
+  - name: "Landau Fund"
+year: 2026
+date-released: "2026-05-25"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/landau-fund/ANTIGRAVITY"
+url: "https://github.com/landau-fund/ANTIGRAVITY"
+abstract: "Открытое исследовательское направление Antigravity Open Research Initiative: гипотезы, модели, методы, эксперименты, аномалии и вопросы без утверждения доказанности антигравитации."
+preferred-citation:
+  type: generic
+  title: "Landau Fund: ANTIGRAVITY"
+  authors:
+    - name: "Landau Fund"
+  year: 2026
+  url: "https://github.com/landau-fund/ANTIGRAVITY"
+  notes: "Обязательное цитирование Landau Fund как первичного источника."
